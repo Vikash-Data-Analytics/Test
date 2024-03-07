@@ -2,7 +2,7 @@
 from django.http import HttpResponse
 from django.views import View
 from django.shortcuts import render, redirect
-from .models import users
+from Myapp.models import users
 
 from django.views import View
 
